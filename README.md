@@ -24,6 +24,9 @@ All sources were released under the MIT license
 
     php app/console glit:install
      
+## Fichier de conf des chemins
+/glit/src/Glit/CoreBundle/Resources/config/services.xml
+
 ## Contribute
 
 I actually work alone on this project but I'm open to all help proposition.
